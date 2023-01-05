@@ -1,0 +1,67 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.background-container {
+  background-color: #000000;
+  border-radius: 10px;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.button {
+  color: #000000;
+  background-color: #ffffff;
+  height: 60px;
+  width: 120px;
+  border-color: #ffffff;
+  border-width: 2px;
+  border-radius: 5px;
+  font-family: 'Roboto';
+}
+
+.background-container1 {
+  background-color: ##000000;
+  border-radius: 10px;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  border-width: 5px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading1 {
+  color: #000000;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.button1 {
+  color: #000000;
+  background-color: #ffffff;
+  height: 60px;
+  width: 120px;
+  border-color: #000000;
+  border-width: 2px;
+  border-radius: 5px;
+  font-family: 'Roboto';
+}
